@@ -1,0 +1,39 @@
+body{
+    padding: 100px;
+    background-color: #000000
+ }
+ 
+ .container{
+    max-width: 600px;
+    padding: 50px;
+    box-shadow: #fc0000 0px 7px 29px 0px;
+    color: rgb(255, 0, 0);
+    background-color: #ffffff
+ }
+ 
+ 
+ .logo{
+    float: inherit;
+    height: 200px;
+    width: 200px;
+ }
+ 
+ #here{
+    width: 200px;
+    height: 20px;
+    border: px solid black;
+ }
+
+ #reg{
+   text-align: center;
+   
+}
+
+#reg{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-group{
+   margin-bottom: 20px;
+   border: solid black 1px;
+}
